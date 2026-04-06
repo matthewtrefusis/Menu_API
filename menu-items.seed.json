@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Classic Burger",
+    "description": "Beef patty, lettuce, tomato, onion, and house sauce",
+    "price": 9.99,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/classic-burger.jpg"
+  },
+  {
+    "name": "Grilled Chicken Wrap",
+    "description": "Grilled chicken, mixed greens, and garlic aioli in a flour tortilla",
+    "price": 8.49,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/chicken-wrap.jpg"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce, parmesan, croutons, and Caesar dressing",
+    "price": 7.5,
+    "category": "Salad",
+    "imageUrl": "https://example.com/images/caesar-salad.jpg"
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Tomato sauce, mozzarella, basil, and olive oil",
+    "price": 12,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/margherita-pizza.jpg"
+  },
+  {
+    "name": "French Fries",
+    "description": "Crispy golden fries with sea salt",
+    "price": 3.99,
+    "category": "Side",
+    "imageUrl": "https://example.com/images/french-fries.jpg"
+  },
+  {
+    "name": "Tomato Soup",
+    "description": "Creamy roasted tomato soup with herbs",
+    "price": 4.75,
+    "category": "Soup",
+    "imageUrl": "https://example.com/images/tomato-soup.jpg"
+  },
+  {
+    "name": "Chocolate Brownie",
+    "description": "Warm chocolate brownie served with vanilla cream",
+    "price": 5.25,
+    "category": "Dessert",
+    "imageUrl": "https://example.com/images/chocolate-brownie.jpg"
+  },
+  {
+    "name": "Lemonade",
+    "description": "Fresh-squeezed lemon juice with cane sugar",
+    "price": 2.99,
+    "category": "Drink",
+    "imageUrl": "https://example.com/images/lemonade.jpg"
+  },
+  {
+    "name": "Iced Tea",
+    "description": "Brewed black tea served chilled with lemon",
+    "price": 2.75,
+    "category": "Drink",
+    "imageUrl": "https://example.com/images/iced-tea.jpg"
+  },
+  {
+    "name": "Veggie Pasta",
+    "description": "Penne pasta with seasonal vegetables and tomato basil sauce",
+    "price": 10.5,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/veggie-pasta.jpg"
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "description": "Smoky BBQ sauce, chicken, red onions, and mozzarella",
+    "price": 13.25,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/bbq-chicken-pizza.jpg"
+  },
+  {
+    "name": "Turkey Club Sandwich",
+    "description": "Turkey, bacon, tomato, lettuce, and mayo on toasted bread",
+    "price": 9.5,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/turkey-club.jpg"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Cucumber, tomato, olives, feta, and oregano vinaigrette",
+    "price": 8,
+    "category": "Salad",
+    "imageUrl": "https://example.com/images/greek-salad.jpg"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "Crispy battered onion rings with dipping sauce",
+    "price": 4.5,
+    "category": "Side",
+    "imageUrl": "https://example.com/images/onion-rings.jpg"
+  },
+  {
+    "name": "Garlic Bread",
+    "description": "Toasted baguette with garlic butter and parsley",
+    "price": 3.75,
+    "category": "Side",
+    "imageUrl": "https://example.com/images/garlic-bread.jpg"
+  },
+  {
+    "name": "Minestrone Soup",
+    "description": "Hearty vegetable soup with beans and pasta",
+    "price": 5,
+    "category": "Soup",
+    "imageUrl": "https://example.com/images/minestrone.jpg"
+  },
+  {
+    "name": "Mushroom Risotto",
+    "description": "Creamy arborio rice with mushrooms and parmesan",
+    "price": 11.5,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/mushroom-risotto.jpg"
+  },
+  {
+    "name": "Fish Tacos",
+    "description": "Grilled fish, cabbage slaw, and lime crema in soft tortillas",
+    "price": 10.99,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/fish-tacos.jpg"
+  },
+  {
+    "name": "Beef Burrito",
+    "description": "Seasoned beef, rice, beans, and cheese wrapped in a tortilla",
+    "price": 9.75,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/beef-burrito.jpg"
+  },
+  {
+    "name": "Chicken Caesar Wrap",
+    "description": "Grilled chicken, romaine, parmesan, and Caesar dressing",
+    "price": 8.95,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/chicken-caesar-wrap.jpg"
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "description": "Classic vanilla shake topped with whipped cream",
+    "price": 4.99,
+    "category": "Drink",
+    "imageUrl": "https://example.com/images/vanilla-milkshake.jpg"
+  },
+  {
+    "name": "Strawberry Smoothie",
+    "description": "Blended strawberries, yogurt, and honey",
+    "price": 5.5,
+    "category": "Drink",
+    "imageUrl": "https://example.com/images/strawberry-smoothie.jpg"
+  },
+  {
+    "name": "Espresso",
+    "description": "Double shot of freshly brewed espresso",
+    "price": 2.5,
+    "category": "Drink",
+    "imageUrl": "https://example.com/images/espresso.jpg"
+  },
+  {
+    "name": "Cheesecake Slice",
+    "description": "Creamy cheesecake with a graham cracker crust",
+    "price": 5.75,
+    "category": "Dessert",
+    "imageUrl": "https://example.com/images/cheesecake.jpg"
+  },
+  {
+    "name": "Apple Pie",
+    "description": "Cinnamon-spiced apple filling in a flaky crust",
+    "price": 4.95,
+    "category": "Dessert",
+    "imageUrl": "https://example.com/images/apple-pie.jpg"
+  },
+  {
+    "name": "Pancake Stack",
+    "description": "Fluffy pancakes served with maple syrup",
+    "price": 7.25,
+    "category": "Breakfast",
+    "imageUrl": "https://example.com/images/pancake-stack.jpg"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Smashed avocado on toasted sourdough with chili flakes",
+    "price": 6.99,
+    "category": "Breakfast",
+    "imageUrl": "https://example.com/images/avocado-toast.jpg"
+  },
+  {
+    "name": "Omelette",
+    "description": "Three-egg omelette with cheese and herbs",
+    "price": 7.75,
+    "category": "Breakfast",
+    "imageUrl": "https://example.com/images/omelette.jpg"
+  },
+  {
+    "name": "Shrimp Alfredo",
+    "description": "Fettuccine with shrimp in creamy Alfredo sauce",
+    "price": 14.5,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/shrimp-alfredo.jpg"
+  },
+  {
+    "name": "Steak Sandwich",
+    "description": "Sliced steak, caramelized onions, and provolone on ciabatta",
+    "price": 12.5,
+    "category": "Main",
+    "imageUrl": "https://example.com/images/steak-sandwich.jpg"
+  }
+]
