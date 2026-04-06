@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const Port = 8080;
 const mongoose = require("mongoose");
+const cors = require("cors");
 require("dotenv").config();
 
 mongoose.set("bufferCommands", false);
@@ -17,6 +18,7 @@ mongoose
   });
 
 app.use(express.json());
+app.use(cors({ origin: "http://localhost:4200" }));
 
 const menuRouter = require("./routes/menu");
 app.use("/menu", menuRouter);

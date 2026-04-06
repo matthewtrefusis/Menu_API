@@ -4,209 +4,209 @@
     "description": "Beef patty, lettuce, tomato, onion, and house sauce",
     "price": 9.99,
     "category": "Main",
-    "imageUrl": "https://example.com/images/classic-burger.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/classic,burger,food"
   },
   {
     "name": "Grilled Chicken Wrap",
     "description": "Grilled chicken, mixed greens, and garlic aioli in a flour tortilla",
     "price": 8.49,
     "category": "Main",
-    "imageUrl": "https://example.com/images/chicken-wrap.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/grilled,chicken,wrap,food"
   },
   {
     "name": "Caesar Salad",
     "description": "Romaine lettuce, parmesan, croutons, and Caesar dressing",
     "price": 7.5,
     "category": "Salad",
-    "imageUrl": "https://example.com/images/caesar-salad.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/caesar,salad,food"
   },
   {
     "name": "Margherita Pizza",
     "description": "Tomato sauce, mozzarella, basil, and olive oil",
     "price": 12,
     "category": "Main",
-    "imageUrl": "https://example.com/images/margherita-pizza.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/margherita,pizza,food"
   },
   {
     "name": "French Fries",
     "description": "Crispy golden fries with sea salt",
     "price": 3.99,
     "category": "Side",
-    "imageUrl": "https://example.com/images/french-fries.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/french,fries,food"
   },
   {
     "name": "Tomato Soup",
     "description": "Creamy roasted tomato soup with herbs",
     "price": 4.75,
     "category": "Soup",
-    "imageUrl": "https://example.com/images/tomato-soup.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/tomato,soup,food"
   },
   {
     "name": "Chocolate Brownie",
     "description": "Warm chocolate brownie served with vanilla cream",
     "price": 5.25,
     "category": "Dessert",
-    "imageUrl": "https://example.com/images/chocolate-brownie.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/chocolate,brownie,food"
   },
   {
     "name": "Lemonade",
     "description": "Fresh-squeezed lemon juice with cane sugar",
     "price": 2.99,
     "category": "Drink",
-    "imageUrl": "https://example.com/images/lemonade.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/lemonade,food"
   },
   {
     "name": "Iced Tea",
     "description": "Brewed black tea served chilled with lemon",
     "price": 2.75,
     "category": "Drink",
-    "imageUrl": "https://example.com/images/iced-tea.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/iced,tea,food"
   },
   {
     "name": "Veggie Pasta",
     "description": "Penne pasta with seasonal vegetables and tomato basil sauce",
     "price": 10.5,
     "category": "Main",
-    "imageUrl": "https://example.com/images/veggie-pasta.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/veggie,pasta,food"
   },
   {
     "name": "BBQ Chicken Pizza",
     "description": "Smoky BBQ sauce, chicken, red onions, and mozzarella",
     "price": 13.25,
     "category": "Main",
-    "imageUrl": "https://example.com/images/bbq-chicken-pizza.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/bbq,chicken,pizza,food"
   },
   {
     "name": "Turkey Club Sandwich",
     "description": "Turkey, bacon, tomato, lettuce, and mayo on toasted bread",
     "price": 9.5,
     "category": "Main",
-    "imageUrl": "https://example.com/images/turkey-club.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/turkey,club,sandwich,food"
   },
   {
     "name": "Greek Salad",
     "description": "Cucumber, tomato, olives, feta, and oregano vinaigrette",
     "price": 8,
     "category": "Salad",
-    "imageUrl": "https://example.com/images/greek-salad.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/greek,salad,food"
   },
   {
     "name": "Onion Rings",
     "description": "Crispy battered onion rings with dipping sauce",
     "price": 4.5,
     "category": "Side",
-    "imageUrl": "https://example.com/images/onion-rings.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/onion,rings,food"
   },
   {
     "name": "Garlic Bread",
     "description": "Toasted baguette with garlic butter and parsley",
     "price": 3.75,
     "category": "Side",
-    "imageUrl": "https://example.com/images/garlic-bread.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/garlic,bread,food"
   },
   {
     "name": "Minestrone Soup",
     "description": "Hearty vegetable soup with beans and pasta",
     "price": 5,
     "category": "Soup",
-    "imageUrl": "https://example.com/images/minestrone.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/minestrone,soup,food"
   },
   {
     "name": "Mushroom Risotto",
     "description": "Creamy arborio rice with mushrooms and parmesan",
     "price": 11.5,
     "category": "Main",
-    "imageUrl": "https://example.com/images/mushroom-risotto.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/mushroom,risotto,food"
   },
   {
     "name": "Fish Tacos",
     "description": "Grilled fish, cabbage slaw, and lime crema in soft tortillas",
     "price": 10.99,
     "category": "Main",
-    "imageUrl": "https://example.com/images/fish-tacos.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/fish,tacos,food"
   },
   {
     "name": "Beef Burrito",
     "description": "Seasoned beef, rice, beans, and cheese wrapped in a tortilla",
     "price": 9.75,
     "category": "Main",
-    "imageUrl": "https://example.com/images/beef-burrito.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/beef,burrito,food"
   },
   {
     "name": "Chicken Caesar Wrap",
     "description": "Grilled chicken, romaine, parmesan, and Caesar dressing",
     "price": 8.95,
     "category": "Main",
-    "imageUrl": "https://example.com/images/chicken-caesar-wrap.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/chicken,caesar,wrap,food"
   },
   {
     "name": "Vanilla Milkshake",
     "description": "Classic vanilla shake topped with whipped cream",
     "price": 4.99,
     "category": "Drink",
-    "imageUrl": "https://example.com/images/vanilla-milkshake.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/vanilla,milkshake,food"
   },
   {
     "name": "Strawberry Smoothie",
     "description": "Blended strawberries, yogurt, and honey",
     "price": 5.5,
     "category": "Drink",
-    "imageUrl": "https://example.com/images/strawberry-smoothie.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/strawberry,smoothie,food"
   },
   {
     "name": "Espresso",
     "description": "Double shot of freshly brewed espresso",
     "price": 2.5,
     "category": "Drink",
-    "imageUrl": "https://example.com/images/espresso.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/espresso,food"
   },
   {
     "name": "Cheesecake Slice",
     "description": "Creamy cheesecake with a graham cracker crust",
     "price": 5.75,
     "category": "Dessert",
-    "imageUrl": "https://example.com/images/cheesecake.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/cheesecake,slice,food"
   },
   {
     "name": "Apple Pie",
     "description": "Cinnamon-spiced apple filling in a flaky crust",
     "price": 4.95,
     "category": "Dessert",
-    "imageUrl": "https://example.com/images/apple-pie.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/apple,pie,food"
   },
   {
     "name": "Pancake Stack",
     "description": "Fluffy pancakes served with maple syrup",
     "price": 7.25,
     "category": "Breakfast",
-    "imageUrl": "https://example.com/images/pancake-stack.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/pancake,stack,food"
   },
   {
     "name": "Avocado Toast",
     "description": "Smashed avocado on toasted sourdough with chili flakes",
     "price": 6.99,
     "category": "Breakfast",
-    "imageUrl": "https://example.com/images/avocado-toast.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/avocado,toast,food"
   },
   {
     "name": "Omelette",
     "description": "Three-egg omelette with cheese and herbs",
     "price": 7.75,
     "category": "Breakfast",
-    "imageUrl": "https://example.com/images/omelette.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/omelette,food"
   },
   {
     "name": "Shrimp Alfredo",
     "description": "Fettuccine with shrimp in creamy Alfredo sauce",
     "price": 14.5,
     "category": "Main",
-    "imageUrl": "https://example.com/images/shrimp-alfredo.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/shrimp,alfredo,food"
   },
   {
     "name": "Steak Sandwich",
     "description": "Sliced steak, caramelized onions, and provolone on ciabatta",
     "price": 12.5,
     "category": "Main",
-    "imageUrl": "https://example.com/images/steak-sandwich.jpg"
+    "imageUrl": "https://loremflickr.com/640/480/steak,sandwich,food"
   }
 ]
